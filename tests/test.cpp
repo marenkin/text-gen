@@ -3,6 +3,6 @@ include "test.h"
 
 void main() {
 
-/* just qqqq */
+/* just qq2qq */
 
 }
